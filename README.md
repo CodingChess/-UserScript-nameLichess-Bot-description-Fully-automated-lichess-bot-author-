@@ -1,0 +1,1 @@
+# -UserScript-nameLichess-Bot-description-Fully-automated-lichess-bot-author-
